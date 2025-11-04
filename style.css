@@ -10,3 +10,25 @@ body{
     width: 1000px;
     height: auto;
 }
+.button-row {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 30px;
+    color: white;
+    
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10px;
+}
+.button{
+    font-size: 20px;
+    text-decoration: none;
+    color: white;   
+}
+.button:hover {
+    background-color: rgba(255, 255, 255, 0.8);
+    color: black;
+    text-decoration: underline;
+    cursor: default;
+}

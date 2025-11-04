@@ -1,0 +1,15 @@
+.marassiback{
+    background-image: url("images/back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: red;
+    background-color: black;
+    
+}
+.black{
+    margin-top: 20%;
+    background-color: black;
+}
