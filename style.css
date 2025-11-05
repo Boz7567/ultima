@@ -1,3 +1,8 @@
+a{
+    text-decoration: none;
+    color:white;
+}
+
 .titolume {
             text-align: center;
             margin-top: 20px;
@@ -16,7 +21,6 @@ body{
     justify-content: center;
     margin-top: 30px;
     color: white;
-    
     margin-left: 10%;
     margin-right: 10%;
     padding: 10px;
@@ -30,5 +34,40 @@ body{
     background-color: rgba(255, 255, 255, 0.8);
     color: black;
     text-decoration: underline;
+    cursor: pointer;
+}
+.notice-row {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 30px;
+    color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10px;
+}
+
+.imgnot{
+    max-width: 430px;
+    max-height: 290px;
+    
+}
+footer{
+    background-color: white;
+    text-align: center;
+    height:90px;
+
+}
+.homebutton{
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+.homebutton:hover {
+    background-color: rgba(255, 255, 255, 0.8);
+    color: black;
+    text-decoration: underline;
     cursor: default;
+    text-align:center;
 }
