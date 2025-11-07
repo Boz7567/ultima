@@ -1,0 +1,32 @@
+<?php
+require_once $_SERVER['DOCUMENT_ROOT'].'/ultima/auth.php';
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>L'ultima</title>//titolo volendo
+    <link rel="stylesheet" href="newstistyle.css">
+</head>
+
+<body>
+    <header>
+        <div class="titolume">
+            <a href="../index.php"><image class="logo"src="../images/logo.png" alt="L'ultima Logo"/></a>
+        </div>
+    </header>
+    <hr>
+    <div class="notice-boxs">
+        <h1></h1>//titolo
+        <img class="newsimg" src="">//immagine
+        <br>
+        <br>
+        <p class="notiziap">
+        //data e notizia effettiva
+    </div>
+    <br>
+    <br>
+    <footer><br><p class="finalp">© 2025 L'Ultima – Testata giornalistica indipendente. Tutti i diritti riservati.</p></footer>
+    <script src="script.js"></script>
+</body>
+</html>

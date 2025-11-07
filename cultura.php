@@ -1,20 +1,25 @@
 <!DOCTYPE html>
+<?php
+require_once $_SERVER['DOCUMENT_ROOT'].'/ultima/auth.php';
+?>
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>L'ultima</title>
+    <title>L'ultima - Cultura</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
     <header>
         <div class="titolume">
-            <a href="index.html"><image class="logo"src="images/logo.png" alt="L'ultima Logo" /></a>
+            <a href="index.php"><image class="logo"src="images/logo.png" alt="L'ultima Logo"/></a>
         </div>
     </header>
     <hr>
     <div class="notice-row">
         <div class="notizia">
-            <h1>Lavori sulla linea Savona-Genova</h1> 
+            <h1>Lavori sulla linea Savona-Genova</h1>
             <p>My shawty is not ok
                 I’ll save you from that pain
                 I know its my fault

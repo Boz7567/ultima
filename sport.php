@@ -1,14 +1,15 @@
+<?php require_once $_SERVER['DOCUMENT_ROOT'].'/ultima/auth.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>L'ultima</title>
+    <title>L'ultima - Sport</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
     <header>
         <div class="titolume">
-            <a href="index.html"><image class="logo"src="images/logo.png" alt="L'ultima Logo"/></a>
+            <a href="index.php"><image class="logo"src="images/logo.png" alt="L'ultima Logo"/></a>
         </div>
     </header>
     <hr>

@@ -1,7 +1,11 @@
+<?php
+require_once $_SERVER['DOCUMENT_ROOT'].'/ultima/auth.php';
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>L'ultima</title>
+    <title>O LA SAI O LA SAI</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body class="marassiback">

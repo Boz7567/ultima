@@ -1,0 +1,45 @@
+.titolume {
+    text-align: center;
+    margin-top: 20px;
+           
+}
+body{
+    background-color: black;
+}
+.logo{
+    width: 1000px;
+    height: auto;
+}
+
+.newsimg{
+    max-width: 70%;
+    max-height:500px;
+    display: block;/* centers the image */
+    margin: 0 auto;/* centers the image */
+}
+footer{
+    background-color: white;
+    text-align: center;
+    height:90px;
+
+}
+h1{
+    color:white;
+    text-align: center;
+}
+p{
+    text-align: center;
+    color:white;
+}
+h4{
+    color:white;
+    text-decoration: none;
+    text-align: center;
+}
+.notiziap{
+    text-align: left;
+    margin: 0 10%; 
+}
+.finalp{
+    color:black;
+}

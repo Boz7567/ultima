@@ -1,3 +1,4 @@
+<?php require_once $_SERVER['DOCUMENT_ROOT'].'/ultima/auth.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,7 +9,7 @@
 <body>
     <header>
         <div class="titolume">
-            <a href="index.html"><image class="logo"src="images/logo.png" alt="L'ultima Logo"/></a>
+            <a href="index.php"><image class="logo"src="images/logo.png" alt="L'ultima Logo"/></a>
         </div>
     </header>
     <div class="button-row">
@@ -24,7 +25,7 @@
     <hr>
     <div class="notice-row">
         <div class="notizia">
-            <a href="notizie/prova.html"><h1>Lavori sulla linea Savona-Genova</h1></a> <!---- mettere qui link alla notizia ---->
+            <a href="notizie/prova.php"><h1>Lavori sulla linea Savona-Genova</h1></a> <!---- mettere qui link alla notizia ---->
             <p>My shawty is not ok
                 I’ll save you from that pain
                 I know its my fault

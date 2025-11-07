@@ -1,27 +1,27 @@
 document.getElementById("mex").onclick = function() {
-    window.location.href = "ultime.html";
+    window.location.href = "ultime.php";
 };
 document.getElementById("mex2").onclick = function() {
-    window.location.href = "general.html";
+    window.location.href = "general.php";
 };
 document.getElementById("mex3").onclick = function() {
-    window.location.href = "estere.html";
+    window.location.href = "estere.php";
 };
 document.getElementById("mex4").onclick = function() {
-    window.location.href = "estere.html";
+    window.location.href = "estere.php";
 };
 document.getElementById("mex5").onclick = function() {
-    window.location.href = "cultura.html";
+    window.location.href = "cultura.php";
 };
 document.getElementById("mex6").onclick = function() {
-    window.location.href = "arte.html";
+    window.location.href = "arte.php";
 };
 document.getElementById("mex7").onclick = function() {
-    window.location.href = "musica.html";
+    window.location.href = "musica.php";
 };
 document.getElementById("mex8").onclick = function() {
-    window.location.href = "marassi/OLSOLS.html";
+    window.location.href = "marassi/marassi.php";
 };
 document.getElementById("home").onclick = function() {
-    window.location.href = "index.html";
+    window.location.href = "index.php";
 };

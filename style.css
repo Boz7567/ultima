@@ -1,73 +1,15 @@
-a{
-    text-decoration: none;
-    color:white;
+.marassiback{
+    background-image: url("images/back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
-
-.titolume {
-            text-align: center;
-            margin-top: 20px;
-           
-}
-body{
+h1{
+    text-align: center;
+    color: red;
     background-color: black;
-}
-.logo{
-    width: 1000px;
-    height: auto;
-}
-.button-row {
-    display: flex;
-    gap: 10px;
-    justify-content: center;
-    margin-top: 30px;
-    color: white;
-    margin-left: 10%;
-    margin-right: 10%;
-    padding: 10px;
-}
-.button{
-    font-size: 20px;
-    text-decoration: none;
-    color: white;   
-}
-.button:hover {
-    background-color: rgba(255, 255, 255, 0.8);
-    color: black;
-    text-decoration: underline;
-    cursor: pointer;
-}
-.notice-row {
-    display: flex;
-    gap: 10px;
-    justify-content: center;
-    margin-top: 30px;
-    color: white;
-    margin-left: 10%;
-    margin-right: 10%;
-    padding: 10px;
-}
-
-.imgnot{
-    max-width: 430px;
-    max-height: 290px;
     
 }
-footer{
-    background-color: white;
-    text-align: center;
-    height:90px;
-
-}
-.homebutton{
-    font-size: 20px;
-    text-decoration: none;
-    color: white;
-    text-align: center;
-}
-.homebutton:hover {
-    background-color: rgba(255, 255, 255, 0.8);
-    color: black;
-    text-decoration: underline;
-    cursor: default;
-    text-align:center;
+.black{
+    margin-top: 20%;
+    background-color: black;
 }
